@@ -23,7 +23,8 @@ All data generated within the app remains on your device.
 ATI-ECHO processes the following data **entirely on your device**:
 - Audio recordings captured via your device’s microphone  
 - Transcriptions generated from recorded audio  
-- Summaries created from transcriptions  
+- Summaries created from transcriptions
+- Machine learning models used for transcription and speaker processing are bundled with the app and run locally
 
 This data is:
 - Stored locally on your device  
@@ -35,18 +36,16 @@ This data is:
 ## 4. Permissions We Use  
 
 ### Microphone Access  
-Used to record audio for transcription and summarisation. Audio is processed locally and never leaves your device.
-
+Used to record audio for transcription and summarisation. Audio is processed locally using on-device models and never leaves your device.
 ### Storage Access  
 Used to save audio recordings, transcriptions, and summary reports on your device.
 
 ---
 
 ## 5. Internet Access  
-The app may access the internet **only during initial setup** to download machine learning models required for on-device functionality.
-
-- No personal data or user-generated content is transmitted during this process  
-- After setup, the app can function entirely offline  
+The app does not require an internet connection to function.
+All machine learning models required for audio processing and transcription are bundled within the app and run entirely on-device.
+The app does not download any additional resources after installation.
 
 ---
 
