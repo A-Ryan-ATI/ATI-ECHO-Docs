@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 10/04/2026
+**Last updated:** 21/04/2026
 ## 1. Introduction  
 Welcome to ATI-ECHO (“we”, “our”, or “us”). This Privacy Policy explains how we handle information when you use our mobile application.
 
